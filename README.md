@@ -1,2 +1,0 @@
-# TrelloOficial
-Prueba Final Trello 
